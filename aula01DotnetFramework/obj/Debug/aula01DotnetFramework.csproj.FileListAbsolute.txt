@@ -1,0 +1,7 @@
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\bin\Debug\aula01DotnetFramework.exe.config
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\bin\Debug\aula01DotnetFramework.exe
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\bin\Debug\aula01DotnetFramework.pdb
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\obj\Debug\aula01DotnetFramework.csprojAssemblyReference.cache
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\obj\Debug\aula01DotnetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\obj\Debug\aula01DotnetFramework.exe
+C:\Users\Rogerio\source\repos\aula01DotnetFramework\aula01DotnetFramework\obj\Debug\aula01DotnetFramework.pdb
